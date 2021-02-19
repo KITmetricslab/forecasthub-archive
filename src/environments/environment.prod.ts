@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  base_href: '/forecasthub'
+  base_href: '/forecasthub-archive'
 };
